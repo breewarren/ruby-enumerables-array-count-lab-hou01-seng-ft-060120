@@ -9,5 +9,3 @@ def count_empty_strings(array)
     element == ""
   end
 end
-
-# Return the total number of EMPTY strings in the provided array using the count enumerable
